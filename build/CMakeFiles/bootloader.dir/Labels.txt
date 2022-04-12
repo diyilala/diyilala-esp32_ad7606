@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/CMakeFiles/bootloader
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/CMakeFiles/bootloader.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/CMakeFiles/bootloader-complete.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/ESP-IDF/SPI_DATA_TRANSMISSION/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
